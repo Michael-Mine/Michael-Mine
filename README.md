@@ -1,6 +1,7 @@
 ## 💻 Tech Stack:
 
 ![React][React] ![JavaScript][JavaScript] ![HTML5][HTML5] ![CSS3][CSS3]  
+![Node] ![Express] ![Postgresql]  
 ![Vite][Vite] ![Vitest][Vitest] ![Jest][Jest] ![Webpack][Webpack]  
 ![Git][Git] ![Linux][Linux] ![Visual Studio Code][Visual Studio Code]
 
